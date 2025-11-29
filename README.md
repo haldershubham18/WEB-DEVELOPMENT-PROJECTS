@@ -9,3 +9,7 @@
 
 # Lab 3
 <img width="1722" height="3231" alt="image" src="https://github.com/user-attachments/assets/98486627-cf77-48aa-9b5e-48de0aa8fbcf" />
+
+
+# Lab 4
+<img width="1887" height="856" alt="image" src="https://github.com/user-attachments/assets/6329ec3a-0c4f-49ff-9dc5-568b95ec0b0a" />
